@@ -1,6 +1,9 @@
 //incorporando o modulo express.
 const express = require('express');
 
+//incorporando função de tratativa de erro do modulo de validação celebrate.
+const { errors } = require('celebrate');
+
 //incorporando o modulo de segurança.
 const cors = require('cors');
 
@@ -18,5 +21,6 @@ app.use(express.json());
 
 //indicando o uso das rotas
 app.use(routes);
+app.use(errors());
 
 app.listen('3333');
