@@ -16,7 +16,7 @@ casos e se decidrem ajudar, entrarão em contato com as ONGs por meio dele.
 Durante a semana tive a oporunidade de conhecer o JavaScrip no backend contruido em nodejs com o gerenciador de arquivos npm, 
 foram utilizados várias modulos
 
-## Tech
+## Tecnologias
 
 - Node.js
 - Reagir
@@ -29,21 +29,25 @@ foram utilizados várias modulos
 - SQLite3
 - Jest
 
-### Back-End
+## Back-End
+
 - Execute o `nmp` na pasta` back-end`;
 - Execute `npm start` para atualizar o servidor;
 - Abra o Insomnia ou Postman e importe o arquivo do espaço de trabalho Insomnia.json na pasta do servidor.
 
-### Front-End
+## Front-End
+
 - Execute `yarn` na pasta` frontend`;
 - Execute o `yarn start` para atualizar o projeto;
 
-### Móvel
+## Mobile
+
 - Execute `yarn` na pasta` mobile`;
 - Atualize a baseURL em src / services / api.js.
 - Execute o `expo start` para atualizar o projeto.
 
-### Teste
+## Teste
+
 - Execute `yarn test: backend` na pasta de back-end;
 
 # Licença
