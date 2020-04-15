@@ -17,16 +17,13 @@ Esse projeto inclui um app para que as pessoas intereçadas em ajudar podem faze
 casos e se decidrem ajudar, entrarão em contato com as ONGs por meio do telefone ou pelo WhatsApp.
 
 <p align='left'>
-  <img src='screenshot/appinicio.png'/>  
-</p>
+  <img src='screenshot/appinicio.png'/> 
 
-<p>
-  <img src='screenshot/applista.png'/>  
-</p>
+  <img src='screenshot/applista.png'/> 
 
-<p>
   <img src='screenshot/appdetalhes.png'/>
 </p>
+
 
 
 Durante a semana tive a oporunidade de conhecer o JavaScrip no backend contruido em nodejs com o gerenciador de arquivos npm, 
