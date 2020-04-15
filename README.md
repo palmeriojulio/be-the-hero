@@ -75,4 +75,4 @@ Execute o `expo start` para atualizar o projeto.
 ```
 
 ## Licença
-[Licença MIT] (/ LICENSE)
+[MIT](https://choosealicense.com/licenses/mit/)
