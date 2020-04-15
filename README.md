@@ -26,8 +26,8 @@ foram utilizados várias modulos
 ## Tecnologias
 
 - Node.js
-- Reagir
-- Reagir nativo
+- React.js
+- React native
 - Expo
 - Express
 - Nodemon
