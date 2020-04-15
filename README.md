@@ -18,9 +18,11 @@ casos e se decidrem ajudar, entrarão em contato com as ONGs por E-mail ou pelo 
 
 <p align='left'>
   <img src='screenshot/appinicio.png'/> 
-
+</>
+<p align='center'>
   <img src='screenshot/applista.png'/> 
-
+</>
+<p align='left'>
   <img src='screenshot/appdetalhes.png'/>
 </p>
 
