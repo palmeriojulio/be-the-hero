@@ -28,7 +28,10 @@ Durante a semana tive a oporunidade de conhecer o JavaScrip no backend contruido
 foram utilizados várias modulos
 
 ## Tecnologias
-
+- Node.js
+- React.js
+- React Native
+- Yarn
 - Insomnia
 - Expo
 - Express
