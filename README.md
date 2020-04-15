@@ -19,7 +19,7 @@ casos e se decidrem ajudar, entrarão em contato com as ONGs por E-mail ou pelo 
 <p>
   <img src='screenshot/appinicio.png' align='left' />
   <img src='screenshot/applista.png' align='center' /> 
-  <img src='screenshot/appdetalhes.png' align=''/>
+  <img src='screenshot/appdetalhes.png' align='right'/>
 </p>
 
 
