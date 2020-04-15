@@ -42,32 +42,37 @@ foram utilizados várias modulos
 
 ## Node.js no back-end
 
-1. Na pasta do back-end execute;
+1. Na pasta back-end execute;
 ```node
 nmp
 ```
 2. Para atualizar o servidor execute;
-```nmp start
+```node
+nmp start
 ```
 
 ## React.js no front-end
 
-1. Na pasta do front-end execute;
-```yarn
+1. Na pasta front-end execute;
+```node
+yarn
 ```
 2. Para atualizar o projeto execute;
-```yarn start
+```node
+yarn start
 ```
 
 ## React native no mobile
 
-- Execute `yarn` na pasta` mobile`;
-- Atualize a baseURL em src / services / api.js.
-- Execute o `expo start` para atualizar o projeto.
+1. Na pasta mobile execute;
+```node
+yarn
+```
+2. Atualize a baseURL em src / services / api.js.
 
-## Teste
-
-- Execute `yarn test: backend` na pasta de back-end;
+```node
+Execute o `expo start` para atualizar o projeto.
+```
 
 ## Licença
 [Licença MIT] (/ LICENSE)
