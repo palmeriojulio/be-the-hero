@@ -31,7 +31,7 @@ foram utilizados várias modulos
 
 ## Tecnologias
 
-
+- Insomnia
 - Expo
 - Express
 - Nodemon
@@ -46,15 +46,18 @@ foram utilizados várias modulos
 ```node
 nmp
 ```
-
-- Execute o `nmp` na pasta` back-end`;
-- Execute `npm start` para atualizar o servidor;
-- Abra o Insomnia ou Postman e importe o arquivo do espaço de trabalho Insomnia.json na pasta do servidor.
+2. Para atualizar o servidor execute;
+```nmp start
+```
 
 ## React.js no front-end
 
-- Execute `yarn` na pasta` frontend`;
-- Execute o `yarn start` para atualizar o projeto;
+1. Na pasta do front-end execute;
+```yarn
+```
+2. Para atualizar o projeto execute;
+```yarn start
+```
 
 ## React native no mobile
 
