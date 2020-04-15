@@ -17,9 +17,9 @@ Esse projeto inclui um app para que as pessoas intereçadas em ajudar podem faze
 casos e se decidrem ajudar, entrarão em contato com as ONGs por E-mail ou pelo WhatsApp.
 
 <p>
-  <img src='screenshot/appinicio.png' align='left' />
-  <img src='screenshot/applista.png' align='center' /> 
-  <img src='screenshot/appdetalhes.png' align='right'/>
+  <img src='screenshot/appinicio.png'/>
+  <img src='screenshot/applista.png' /> 
+  <img src='screenshot/appdetalhes.png' />
 </p>
 
 
@@ -68,8 +68,9 @@ yarn
 ```
 2. Atualize a baseURL em src / services / api.js.
 
+3. Execute o comando abaixo para atualizar o projeto.
 ```node
-Execute o `expo start` para atualizar o projeto.
+expo start
 ```
 
 ## Licença
