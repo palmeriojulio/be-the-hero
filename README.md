@@ -16,14 +16,10 @@ A intenção do sitema e unir foças de ONGs, Instituições e sociedade que ten
 Esse projeto inclui um app para que as pessoas intereçadas em ajudar podem fazer uso do aplicativo para analizarem a lista de 
 casos e se decidrem ajudar, entrarão em contato com as ONGs por E-mail ou pelo WhatsApp.
 
-<p align='left'>
-  <img src='screenshot/appinicio.png'/> 
-</>
-<p align='center'>
-  <img src='screenshot/applista.png'/> 
-</>
-<p align='left'>
-  <img src='screenshot/appdetalhes.png'/>
+<p>
+  <img src='screenshot/appinicio.png' align='left' />
+  <img src='screenshot/applista.png' align='center' /> 
+  <img src='screenshot/appdetalhes.png' align=''/>
 </p>
 
 
