@@ -31,9 +31,7 @@ foram utilizados várias modulos
 
 ## Tecnologias
 
-- Node.js
-- React.js
-- React native
+
 - Expo
 - Express
 - Nodemon
@@ -42,18 +40,23 @@ foram utilizados várias modulos
 - SQLite3
 - Jest
 
-## Back-End
+## Node.js no back-end
+
+1. Na pasta do back-end execute;
+```node
+nmp
+```
 
 - Execute o `nmp` na pasta` back-end`;
 - Execute `npm start` para atualizar o servidor;
 - Abra o Insomnia ou Postman e importe o arquivo do espaço de trabalho Insomnia.json na pasta do servidor.
 
-## Front-End
+## React.js no front-end
 
 - Execute `yarn` na pasta` frontend`;
 - Execute o `yarn start` para atualizar o projeto;
 
-## Mobile
+## React native no mobile
 
 - Execute `yarn` na pasta` mobile`;
 - Atualize a baseURL em src / services / api.js.
@@ -63,5 +66,5 @@ foram utilizados várias modulos
 
 - Execute `yarn test: backend` na pasta de back-end;
 
-# Licença
+## Licença
 [Licença MIT] (/ LICENSE)
