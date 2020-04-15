@@ -16,9 +16,18 @@ A intenção do sitema e unir foças de ONGs, Instituições e sociedade que ten
 Esse projeto inclui um app para que as pessoas intereçadas em ajudar podem fazer uso do aplicativo para analizarem a lista de 
 casos e se decidrem ajudar, entrarão em contato com as ONGs por meio do telefone ou pelo WhatsApp.
 
-<p align="center">
-  <img src=".png" />
+<p align='left'>
+  <img src='screenshot/appinicio.png'/>  
 </p>
+
+<p>
+  <img src='screenshot/applista.png'/>  
+</p>
+
+<p>
+  <img src='screenshot/appdetalhes.png'/>
+</p>
+
 
 Durante a semana tive a oporunidade de conhecer o JavaScrip no backend contruido em nodejs com o gerenciador de arquivos npm, 
 foram utilizados várias modulos
